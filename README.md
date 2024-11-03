@@ -26,7 +26,7 @@
 
 ## 坛主联系邮箱
 
-    GDPT1@proton.me
+    GDPT4@proton.me
 
 ## 坛主电报机器人联系方式
 
