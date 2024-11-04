@@ -31,3 +31,11 @@
 - git config --global user.email "your@email.com"
 
     `git config --global user.email "your@email.com"`是用于设置全局Git用户邮箱（会应用于所有本地Git仓库）的命令，邮箱用于标识提交者和关联代码托管平台账号。
+
+- git config --global --unset user.name
+
+    `git config --global --unset user.name`是用于在全局范围内删除之前设置的Git用户名配置的命令。
+
+- git config --global --unset user.email
+
+    `git config --global --unset user.email`是用于删除全局Git用户邮箱配置的命令。
