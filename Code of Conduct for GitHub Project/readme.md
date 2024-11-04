@@ -1,37 +1,37 @@
-# Code of Conduct for GitHub Project
+# GitHub 项目行为准则
 
-## 1. Introduction
-This code of conduct outlines our expectations for all those who participate in our GitHub project, in order to ensure a positive, collaborative, and respectful environment.
+## 1. 简介
+本行为准则概述了我们对所有参与 GitHub 项目的人的期望，以确保一个积极、协作和尊重的环境。
 
-## 2. Purpose
-The purpose of this code is to promote an inclusive and productive community. We value the contributions of every member and aim to make this project a place where people feel welcome, safe, and able to express their ideas freely.
+## 2. 目的
+本准则的目的是促进一个包容和富有成效的社区。我们重视每一位成员的贡献，并致力于使这个项目成为一个人们感到受欢迎、安全并能够自由表达自己想法的地方。
 
-## 3. Expected Behavior
+## 3. 预期行为
 
-### 3.1 Be Respectful
-- Treat all project participants with respect, regardless of their background, identity, or level of experience. Avoid derogatory remarks, insults, or any form of harassment.
-- Respect different opinions and perspectives. When there are disagreements, engage in constructive discussions and avoid personal attacks.
+### 3.1 尊重
+- 尊重所有项目参与者，无论他们的背景、身份或经验水平如何。避免贬损言论、侮辱或任何形式的骚扰。
+- 尊重不同的意见和观点。当有分歧时，进行建设性的讨论，避免人身攻击。
 
-### 3.2 Collaboration
-- Work together to improve the project. Be open to feedback and be willing to provide helpful suggestions to others.
-- Share your knowledge and resources to help new contributors get involved. Collaborate in a spirit of mutual support and growth.
+### 3.2 合作
+- 共同努力改进项目。对反馈持开放态度，并愿意向他人提供有用的建议。
+- 分享您的知识和资源，帮助新贡献者参与进来。本着相互支持和成长的精神进行合作。
 
-### 3.3 Professionalism
-- Keep communication professional. Use appropriate language in all project - related discussions, whether in issues, pull requests, or other communication channels.
-- Adhere to the project's goals and scope. Do not use the project platform for self - promotion or other unrelated purposes.
+### 3.3 专业性
+- 保持专业沟通。在所有与项目相关的讨论中使用适当的语言，无论是在问题、拉取请求还是其他沟通渠道中。
+- 遵守项目的目标和范围。请勿将项目平台用于自我宣传或其他无关目的。
 
-## 4. Unacceptable Behavior
-- Harassment, including but not limited to offensive language, threats, or unwanted attention towards other project participants, will not be tolerated.
-- Deliberate disruption of the project, such as spamming, creating false issues, or sabotaging the work of others, is prohibited.
-- Any form of discrimination based on race, gender, religion, nationality, age, or other protected characteristics is unacceptable.
+## 4. 不可接受的行为
+- 不会容忍骚扰，包括但不限于对其他项目参与者的攻击性语言、威胁或不必要的关注。
+- 禁止故意破坏项目，例如发送垃圾邮件、创建虚假问题或破坏他人的工作。
+- 任何基于种族、性别、宗教、国籍、年龄或其他受保护特征的歧视都是不可接受的。
 
-## 5. Reporting Issues
-- If you witness or experience unacceptable behavior, please report it to the project maintainers. Provide as much detail as possible, including relevant messages, timestamps, and the identities of those involved.
-- The project maintainers will take all reports seriously and will investigate them promptly. Confidentiality will be maintained to the extent possible during the investigation process.
+## 5. 报告问题
+- 如果您目睹或经历不可接受的行为，请向项目维护者报告。提供尽可能多的细节，包括相关消息、时间戳和相关人员的身份。
+- 项目维护者将认真对待所有报告并及时调查。调查过程中将尽可能保密。
 
-## 6. Consequences of Violating the Code of Conduct
-- Those who violate this code of conduct may be warned, have their contributions removed, or be blocked from further participation in the project, depending on the severity of the violation.
-- The decision of the project maintainers regarding enforcement of the code of conduct will be final.
+## 6. 违反行为准则的后果
+- 违反本行为准则的人可能会受到警告、删除其贡献或被禁止进一步参与项目，具体取决于违规的严重程度。
+- 项目维护者关于执行行为准则的决定将是最终决定。
 
-## 7. Acknowledgment
-By participating in this GitHub project, you agree to abide by this code of conduct. We all have a responsibility to maintain a healthy and positive community environment.
+## 7. 确认
+通过参与此 GitHub 项目，您同意遵守本行为准则。我们都有责任维护健康积极的社区环境。
